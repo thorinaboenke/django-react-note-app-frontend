@@ -19,7 +19,6 @@
 .note {
     text-decoration: none;
     overflow-wrap: break-word;
-  word-break: break-all;
     color: #000;
     background: #ffc;
     display: flex;
