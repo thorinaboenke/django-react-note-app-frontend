@@ -5,6 +5,32 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  padding: 1em;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  font-weight: normal;
+  font-size: 1rem;
+  text-align: left
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+ul li {
+  margin: 1em;
 }
 
 code {
